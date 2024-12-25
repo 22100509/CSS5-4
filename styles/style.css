@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  background: #e7eeff;
+  padding: 20px 0;
+  margin-bottom: 42px;
+}
+
+.headerDiv {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.searchDiv {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.searchP {
+  font-size: 16px;
+}
+
+.nameDiv {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  display: flex;
+}
+
+.navDiv {
+  max-width: 104px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 12px 0 708px 0px;
+  background: #e7eeff;
+}
+
+.sectionOne {
+  max-width: 48px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+.logomarkDiv {
+  border-bottom: 1px solid #002b81;
+}
+
+.mainDiv {
+  display: flex;
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+}
+
+.firstSection {
+  padding: 8px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 519px;
+  width: 100%;
+  gap: 30px;
+}
+
+.blueSection {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  border-radius: 16px;
+  background: #e7eeff;
+  padding: 8px 24px 8px 12px;
+}
+
+.flexend {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 42px;
+}
+
+.Spain {
+  color: #323232;
+  font-size: 16px;
+}
+
+.sectionDiv {
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  max-width: 1144px;
+  width: 100%;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.line {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+}
+
+.boxText {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 8px 12px;
+  border-radius: 0px 0px 24px 24px;
+  background: #e7eeff;
+  
+}
+
+.boxH {
+  font-size: 18px;
+}
+
+.boxP {
+  color: #606060;
+  font-size: 14px;
+}
