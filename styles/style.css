@@ -74,6 +74,7 @@ header {
   max-width: 519px;
   width: 100%;
   gap: 30px;
+  flex-wrap: wrap;
 }
 
 .blueSection {
@@ -113,6 +114,7 @@ section {
 .line {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .box {
